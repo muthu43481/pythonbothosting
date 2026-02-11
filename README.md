@@ -6,23 +6,26 @@ pkg update && pkg upgrade -y
 
 pkg install python -y
 
+pip install pyTelegramBotAPI requests beautifulsoup4 pillow psutil pyttsx3 wikipedia pyjokes colorama
+
+
 pkg install nano
 
 pkg install git
 
-git clone 
-```
-cd Cemra
-```
-bash Lsetup.sh
-```
-```
-bash dgtlcam.sh
+git clone https://github.com/shahid2005a/Dgtlbot.git
+
+
+cd Dgtlbot
+
 ```
 
-### Photos Seve Folder path
-## `/storage/emulated/0/ACamPhoto/`
-
+```
+ nano Dgtlbot.py
+```
+```
+python Dgtlbot.py
+```
 
 
 ## 📌 Contact Me  
@@ -37,6 +40,4 @@ bash dgtlcam.sh
 </a>  
 <br>
 
-<a href="https://chat.whatsapp.com/JhSEMaGzYk4GbkvEr2i6WI">
-  <img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group">
-</a>
+

@@ -1,3 +1,5 @@
+![logo](https://github.com/shahid2005a/Dgtlbot/blob/main/Dgtlbot.png)
+
 # Dgtlbot
 Host repo
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
@@ -6,7 +8,7 @@ pkg update && pkg upgrade -y
 
 pkg install python -y
 
-pip install pyTelegramBotAPI requests beautifulsoup4 pillow psutil pyttsx3 wikipedia pyjokes colorama
+pip install --upgrade pyTelegramBotAPI 
 
 
 pkg install nano

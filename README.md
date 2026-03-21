@@ -1,14 +1,40 @@
 ![logo](https://github.com/shahid2005a/Dgtlbot/blob/main/Dgtlbot.png)
 
-# Dgtlbot
 Host repo
+
+# 🚀 Python Bot Hosting Telegram Bot
+
+A powerful Telegram bot that allows users to upload and run Python scripts directly from Telegram! Perfect for hosting Python bots 24/7 with auto-restart capabilities.
+
+## ✨ Features
+
+- 🤖 **Permanent Bot Hosting** - Keep your bots running 24/7
+- 📦 **Auto Module Installation** - Automatically installs required Python packages
+- 🔄 **Auto Restart** - Automatically restarts crashed bots
+- 🧠 **RAM/Storage Monitor** - Real-time system resource monitoring
+- 👑 **Admin Panel** - Complete control over the bot
+- 📢 **Broadcast System** - Send messages to all users
+- 🗑️ **Auto Cleanup** - Automatically removes old files
+
+## 🛠️ Requirements
+
+- Python 3.7+
+- Telegram Bot Token
+- 1GB+ RAM (Recommended)
+- 2GB+ Storage
+
+## 📦 Installation
+
+### Local Installation
+
+
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ```
 pkg update && pkg upgrade -y
 
 pkg install python -y
 
-pip install --upgrade pyTelegramBotAPI 
+pip install pyTelegramBotAPI 
 
 
 pkg install nano

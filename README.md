@@ -1,4 +1,4 @@
-![logo](https://github.com/shahid2005a/Dgtlbot/blob/main/Dgtlbot.png)
+![logo](https://github.com/shahid2005a/Dgtlbot/blob/main/PythonBot.png)
 
 Host repo
 
@@ -36,7 +36,6 @@ pkg install python -y
 
 pip install pyTelegramBotAPI 
 
-
 pkg install nano
 
 pkg install git
@@ -49,10 +48,10 @@ cd Dgtlbot
 ```
 
 ```
- nano Dgtlbot.py
+ nano PythonBot.py
 ```
 ```
-python Dgtlbot.py
+python PythonBot.py
 ```
 
 

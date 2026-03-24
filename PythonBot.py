@@ -47,7 +47,7 @@ banner()
 # ============ CONFIGURATION ============
 
 # अपना बॉट टोकन यहाँ डालें
-BOT_TOKEN = '1234567890'
+BOT_TOKEN = '8330195565:AAFZHomQ9Pp4SZZscBpoHmc5q67vyE5PBiQ'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # डेटाबेस फ़ाइल
